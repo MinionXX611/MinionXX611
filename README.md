@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MinionXX611
 - 🥺 I'm a CS Xiaobai in THU
 - 👀 I’m interested in cooking and geography
-- 🌱 I’m currently learning LLMs
+- 🌱 I’m currently learning CoRe, robotics and web crawler
+- :)  Looking forward to talk with you!
 
 <!---
 MinionXX611/MinionXX611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
